@@ -1,1 +1,3 @@
-# learnbyexample
+# Headline
+
+> An awesome project.
